@@ -1,4 +1,4 @@
-# Batch_Prediction
+# Batch Prediction in the process industry
 This is the source code for my master's project on predicting faulty batches.
 
 The objective of the work is to predict faulty batch runs in the process industry. 
